@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="CRM2">ea9936d0db22001013dc70e2399619f2</applet_launcher>
+        <icon display_value="Home CRM2">ae9936d0db22001013dc70e2399619f3</icon>
+        <label>CRM2</label>
+        <roles>admin</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-21 01:44:48</sys_created_on>
+        <sys_id>6e9936d0db22001013dc70e2399619f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRM2</sys_name>
+        <sys_package display_value="CRM2" source="x_441042_crm2">4309bed0db22001013dc70e2399619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM2">4309bed0db22001013dc70e2399619eb</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_6e9936d0db22001013dc70e2399619f3</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-21 01:44:48</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

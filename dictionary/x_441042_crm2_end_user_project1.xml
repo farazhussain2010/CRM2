@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="End User Project1" max_length="40" name="x_441042_crm2_end_user_project1" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="category" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Bug" value="2"/>
+                <element inactive_on_update="false" label="Issue" value="1"/>
+            </choice>
+        </element>
+    </element>
+</database>

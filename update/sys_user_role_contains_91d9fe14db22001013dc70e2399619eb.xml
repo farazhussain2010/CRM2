@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="crm2" name="crm2">59d9fe14db22001013dc70e2399619e1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-21 01:45:49</sys_created_on>
+        <sys_id>91d9fe14db22001013dc70e2399619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.crm2</sys_name>
+        <sys_package display_value="CRM2" source="x_441042_crm2">4309bed0db22001013dc70e2399619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM2">4309bed0db22001013dc70e2399619eb</sys_scope>
+        <sys_update_name>sys_user_role_contains_91d9fe14db22001013dc70e2399619eb</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-21 01:45:49</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

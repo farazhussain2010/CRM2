@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (End User Project1)">aa99fa14db22001013dc70e23996191e</button>
+        <button_parent_table>x_441042_crm2_end_user_project1</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>state</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>State</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>state</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-21 01:44:49</sys_created_on>
+        <sys_id>e699fa14db22001013dc70e23996191f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>State</sys_name>
+        <sys_package display_value="CRM2" source="x_441042_crm2">4309bed0db22001013dc70e2399619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM2">4309bed0db22001013dc70e2399619eb</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_e699fa14db22001013dc70e23996191f</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-21 01:44:49</sys_updated_on>
+        <table_name>x_441042_crm2_end_user_project1</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=e699fa14db22001013dc70e23996191f"/>
+</record_update>

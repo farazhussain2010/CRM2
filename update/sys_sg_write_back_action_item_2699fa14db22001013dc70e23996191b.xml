@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (End User Project1)</name>
+        <query_condition table="x_441042_crm2_end_user_project1">sys_idSTARTSWITH{{End User Project1 sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{End User Project1 sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-21 01:44:49</sys_created_on>
+        <sys_id>2699fa14db22001013dc70e23996191b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (End User Project1)</sys_name>
+        <sys_package display_value="CRM2" source="x_441042_crm2">4309bed0db22001013dc70e2399619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM2">4309bed0db22001013dc70e2399619eb</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_2699fa14db22001013dc70e23996191b</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-21 01:44:49</sys_updated_on>
+        <table>x_441042_crm2_end_user_project1</table>
+        <template>priority={{End User Project1 priority}}^state={{End User Project1 state}}^short_description={{End User Project1 short_description}}^description={{End User Project1 description}}^assigned_to={{End User Project1 assigned_to}}^assignment_group={{End User Project1 assignment_group}}^company={{End User Project1 company}}^location={{End User Project1 location}}^cmdb_ci={{End User Project1 cmdb_ci}}^business_service={{End User Project1 business_service}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2699fa14db22001013dc70e23996191b"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>End User Project1 business_service</name>
+        <parent>2699fa14db22001013dc70e23996191b</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>faraz.hussain</sys_created_by>
+        <sys_created_on>2020-01-21 01:44:49</sys_created_on>
+        <sys_id>2299fa14db22001013dc70e23996191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End User Project1 business_service</sys_name>
+        <sys_package display_value="CRM2" source="x_441042_crm2">4309bed0db22001013dc70e2399619eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CRM2">4309bed0db22001013dc70e2399619eb</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_2299fa14db22001013dc70e23996191e</sys_update_name>
+        <sys_updated_by>faraz.hussain</sys_updated_by>
+        <sys_updated_on>2020-01-21 01:44:49</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
